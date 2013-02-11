@@ -28,6 +28,6 @@ out = FOREACH all_keys {
     GENERATE mongo_util.create_mongo_schema(results);
 }
 
-rmf s3n://jkarn-dev/$MORTAR_EMAIL_S3_ESCAPED/schema_out;
-STORE out  INTO 's3n://jkarn-dev/$MORTAR_EMAIL_S3_ESCAPED/schema_out' 
+rmf s3n://mortar-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/schema_out;
+STORE out  INTO 's3n://mortar-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/schema_out' 
           USING PigStorage('\t');

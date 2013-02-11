@@ -29,6 +29,6 @@ counted =  FOREACH grouped
 
 ordered = ORDER counted BY group ASC;
 
-rmf s3n://hawk-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/coffee_tweets_out;
-STORE ordered  INTO 's3n://hawk-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/coffee_tweets_out' 
+rmf s3n://mortar-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/coffee_tweets_out;
+STORE ordered  INTO 's3n://mortar-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/coffee_tweets_out' 
               USING PigStorage('\t');

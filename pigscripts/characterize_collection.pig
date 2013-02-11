@@ -58,6 +58,6 @@ result =  FOREACH join_result
 -- Sort by field name and number of values
 out = ORDER result BY unique_vals::keyname, val_count DESC;
 
-rmf s3n://hawk-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/meta_out;
-STORE out INTO 's3n://hawk-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/meta_out' 
+rmf s3n://mortar-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/meta_out;
+STORE out INTO 's3n://mortar-example-output-data/$MORTAR_EMAIL_S3_ESCAPED/meta_out' 
          USING PigStorage('\t');
