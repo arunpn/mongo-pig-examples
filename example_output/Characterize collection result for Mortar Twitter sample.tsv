@@ -1,0 +1,427 @@
+_id	118849	50fdcb18347912f10f33bcae	unicode	1
+_id	118849	50fdcb18347912f10f33bcaf	unicode	1
+_id	118849	50fdcb18347912f10f33bcb0	unicode	1
+_id	118849	50fdcb18347912f10f33bcb1	unicode	1
+_id	118849	50fdcb18347912f10f33bcac	unicode	1
+contributors	1	None	NoneType	118837
+coordinates	2	dict	dict	103696
+coordinates	2	None	NoneType	15141
+coordinates.coordinates	1	list	list	103696
+coordinates.type	1	Point	unicode	103696
+created_at	11042	Sat Dec 22 04:57:01 +0000 2012	unicode	48
+created_at	11042	Sat Dec 22 05:00:04 +0000 2012	unicode	48
+created_at	11042	Sat Dec 22 04:59:55 +0000 2012	unicode	46
+created_at	11042	Sat Dec 22 04:57:40 +0000 2012	unicode	45
+created_at	11042	Sat Dec 22 05:00:13 +0000 2012	unicode	44
+entities	1	dict	dict	118837
+entities.hashtags	1	list	list	118837
+entities.hashtags.indices	1	list	list	19418
+entities.hashtags.text	12503	ThingsILikeToDo	unicode	203
+entities.hashtags.text	12503	oomf	unicode	147
+entities.hashtags.text	12503	jobs	unicode	123
+entities.hashtags.text	12503	IllNeverRegretMeeting	unicode	112
+entities.hashtags.text	12503	fb	unicode	111
+entities.media	1	list	list	574
+entities.media.display_url	574	pic.twitter.com/0BQakHOu	unicode	1
+entities.media.display_url	574	pic.twitter.com/06eWOx61	unicode	1
+entities.media.display_url	574	pic.twitter.com/00Z9Jy83	unicode	1
+entities.media.display_url	574	pic.twitter.com/0NO5ChZF	unicode	1
+entities.media.display_url	574	pic.twitter.com/zgVvV14n	unicode	1
+entities.media.expanded_url	574	http://twitter.com/SJeda/status/282456250170621953/photo/1	unicode	1
+entities.media.expanded_url	574	http://twitter.com/CWhyno/status/282244557071077376/photo/1	unicode	1
+entities.media.expanded_url	574	http://twitter.com/F_GGOT/status/282439429287735296/photo/1	unicode	1
+entities.media.expanded_url	574	http://twitter.com/Mr__FIST/status/282349264267538433/photo/1	unicode	1
+entities.media.expanded_url	574	http://twitter.com/z1v1/status/282274400177360896/photo/1	unicode	1
+entities.media.id	574	282501190363791360	long	1
+entities.media.id	574	282501212438421500	long	1
+entities.media.id	574	282501042376159230	long	1
+entities.media.id	574	282501208059568130	long	1
+entities.media.id	574	282501291433918460	long	1
+entities.media.id_str	574	282485380828262401	unicode	1
+entities.media.id_str	574	282485374402564096	unicode	1
+entities.media.id_str	574	282485443642142720	unicode	1
+entities.media.id_str	574	282485375845416960	unicode	1
+entities.media.id_str	574	282485369298120705	unicode	1
+entities.media.indices	1	list	list	574
+entities.media.media_url	574	http://pbs.twimg.com/media/A-tFCQyCMAA7adn.jpg	unicode	1
+entities.media.media_url	574	http://pbs.twimg.com/media/A-qSiRbCMAA7QNu.jpg	unicode	1
+entities.media.media_url	574	http://pbs.twimg.com/media/A-ttRdZCQAAXJPj.jpg	unicode	1
+entities.media.media_url	574	http://pbs.twimg.com/media/A-sopGTCMAAZMEd.jpg	unicode	1
+entities.media.media_url	574	http://pbs.twimg.com/media/A-soo_7CIAEqq2c.jpg	unicode	1
+entities.media.media_url_https	574	https://pbs.twimg.com/media/A5eIjmACQAIGUi7.jpg	unicode	1
+entities.media.media_url_https	574	https://pbs.twimg.com/media/A-uV6IWCEAI7OCJ.jpg	unicode	1
+entities.media.media_url_https	574	https://pbs.twimg.com/media/A98kpHmCAAAgKYI.jpg	unicode	1
+entities.media.media_url_https	574	https://pbs.twimg.com/media/A9TiL1CCIAEwiV6.jpg	unicode	1
+entities.media.media_url_https	574	https://pbs.twimg.com/media/A9ZAU9FCIAAkqYU.jpg	unicode	1
+entities.media.sizes	1	dict	dict	574
+entities.media.sizes.large	1	dict	dict	574
+entities.media.sizes.large.h	157	1024	int	117
+entities.media.sizes.large.h	157	960	int	55
+entities.media.sizes.large.h	157	768	int	45
+entities.media.sizes.large.h	157	640	int	33
+entities.media.sizes.large.h	157	480	int	30
+entities.media.sizes.large.resize	1	fit	unicode	574
+entities.media.sizes.large.w	117	1024	int	154
+entities.media.sizes.large.w	117	640	int	70
+entities.media.sizes.large.w	117	768	int	53
+entities.media.sizes.large.w	117	480	int	35
+entities.media.sizes.large.w	117	960	int	28
+entities.media.sizes.medium	1	dict	dict	574
+entities.media.sizes.medium.h	134	800	int	102
+entities.media.sizes.medium.h	134	450	int	79
+entities.media.sizes.medium.h	134	900	int	46
+entities.media.sizes.medium.h	134	600	int	46
+entities.media.sizes.medium.h	134	803	int	32
+entities.media.sizes.medium.resize	1	fit	unicode	574
+entities.media.sizes.medium.w	79	600	int	407
+entities.media.sizes.medium.w	79	480	int	35
+entities.media.sizes.medium.w	79	500	int	26
+entities.media.sizes.medium.w	79	320	int	10
+entities.media.sizes.medium.w	79	400	int	6
+entities.media.sizes.small	1	dict	dict	574
+entities.media.sizes.small.h	120	453	int	128
+entities.media.sizes.small.h	120	255	int	89
+entities.media.sizes.small.h	120	340	int	64
+entities.media.sizes.small.h	120	510	int	49
+entities.media.sizes.small.h	120	455	int	38
+entities.media.sizes.small.resize	1	fit	unicode	574
+entities.media.sizes.small.w	31	340	int	532
+entities.media.sizes.small.w	31	320	int	10
+entities.media.sizes.small.w	31	225	int	2
+entities.media.sizes.small.w	31	200	int	2
+entities.media.sizes.small.w	31	275	int	2
+entities.media.sizes.thumb	1	dict	dict	574
+entities.media.sizes.thumb.h	5	150	int	570
+entities.media.sizes.thumb.h	5	134	int	1
+entities.media.sizes.thumb.h	5	82	int	1
+entities.media.sizes.thumb.h	5	143	int	1
+entities.media.sizes.thumb.h	5	148	int	1
+entities.media.sizes.thumb.resize	1	crop	unicode	574
+entities.media.sizes.thumb.w	1	150	int	574
+entities.media.source_status_id	19	276094170014294000	long	1
+entities.media.source_status_id	19	282485126888300540	long	1
+entities.media.source_status_id	19	282499424826048500	long	1
+entities.media.source_status_id	19	282484109677314050	long	1
+entities.media.source_status_id	19	258825648670392320	long	1
+entities.media.source_status_id_str	19	282365395111915520	unicode	1
+entities.media.source_status_id_str	19	282253443660394499	unicode	1
+entities.media.source_status_id_str	19	282274597334814720	unicode	1
+entities.media.source_status_id_str	19	282225316498386944	unicode	1
+entities.media.source_status_id_str	19	282264537393152000	unicode	1
+entities.media.type	1	photo	unicode	574
+entities.media.url	574	http://t.co/xMftRVBO	unicode	1
+entities.media.url	574	http://t.co/wrjIz5xE	unicode	1
+entities.media.url	574	http://t.co/x43QmWkM	unicode	1
+entities.media.url	574	http://t.co/xDmt4uXn	unicode	1
+entities.media.url	574	http://t.co/xDomyLMW	unicode	1
+entities.urls	1	list	list	118837
+entities.urls.display_url	8251	twitzip.com/alerts/55513	unicode	86
+entities.urls.display_url	8251	twitzip.com/alerts/55502	unicode	43
+entities.urls.display_url	8251	twitzip.com/alerts/55491	unicode	41
+entities.urls.display_url	8251	thepokeratlas.com/228	unicode	28
+entities.urls.display_url	8251	twitzip.com/alerts/55356	unicode	28
+entities.urls.expanded_url	8273	http://twitzip.com/alerts/55513	unicode	86
+entities.urls.expanded_url	8273	http://twitzip.com/alerts/55502	unicode	43
+entities.urls.expanded_url	8273	http://twitzip.com/alerts/55491	unicode	41
+entities.urls.expanded_url	8273	http://thepokeratlas.com/228	unicode	28
+entities.urls.expanded_url	8273	http://twitzip.com/alerts/55356	unicode	28
+entities.urls.indices	1	list	list	8896
+entities.urls.url	8673	http://t.co/f1mxW5ZT	unicode	28
+entities.urls.url	8673	http://t.co/Sq2ekENu	unicode	17
+entities.urls.url	8673	http://t.co/wqNXkiTL	unicode	16
+entities.urls.url	8673	http://t.co/HW4VscNR	unicode	15
+entities.urls.url	8673	http://t.co/OOJPftlM	unicode	15
+entities.user_mentions	1	list	list	118837
+entities.user_mentions.id	35367	14120151	int	157
+entities.user_mentions.id	35367	27260086	int	74
+entities.user_mentions.id	35367	105119490	int	69
+entities.user_mentions.id	35367	17929027	int	45
+entities.user_mentions.id	35367	20322929	int	24
+entities.user_mentions.id_str	35367	14120151	unicode	157
+entities.user_mentions.id_str	35367	27260086	unicode	74
+entities.user_mentions.id_str	35367	105119490	unicode	69
+entities.user_mentions.id_str	35367	17929027	unicode	45
+entities.user_mentions.id_str	35367	20322929	unicode	24
+entities.user_mentions.indices	1	list	list	42402
+entities.user_mentions.name	34383	Foursquare	unicode	157
+entities.user_mentions.name	34383	Justin Bieber	unicode	79
+entities.user_mentions.name	34383	Niall Horan	unicode	73
+entities.user_mentions.name	34383	Wale Folarin 	unicode	45
+entities.user_mentions.name	34383	Wiz Khalifa	unicode	33
+entities.user_mentions.screen_name	35367	foursquare	unicode	157
+entities.user_mentions.screen_name	35367	justinbieber	unicode	74
+entities.user_mentions.screen_name	35367	NiallOfficial	unicode	69
+entities.user_mentions.screen_name	35367	Wale	unicode	45
+entities.user_mentions.screen_name	35367	wizkhalifa	unicode	24
+favorited	1	false	unicode	118837
+geo	2	dict	dict	103696
+geo	2	None	NoneType	15141
+geo.coordinates	1	list	list	103696
+geo.type	1	Point	unicode	103696
+id	118657	282379253172027400	long	3
+id	118657	282319886124994560	long	2
+id	118657	282320045437235200	long	2
+id	118657	282320088869253120	long	2
+id	118657	282349595646902270	long	2
+id_str	118822	282334620098383872	unicode	2
+id_str	118822	282334620308086784	unicode	2
+id_str	118822	282334620542959617	unicode	2
+id_str	118822	282334620635242496	unicode	2
+id_str	118822	282334619913822211	unicode	2
+in_reply_to_screen_name	26644	None	NoneType	87312
+in_reply_to_screen_name	26644	NiallOfficial	unicode	62
+in_reply_to_screen_name	26644	justinbieber	unicode	32
+in_reply_to_screen_name	26644	Wale	unicode	22
+in_reply_to_screen_name	26644	AlfredoFlores	unicode	17
+in_reply_to_status_id	26714	None	NoneType	91644
+in_reply_to_status_id	26714	282409052166840320	long	30
+in_reply_to_status_id	26714	282425606291996670	long	9
+in_reply_to_status_id	26714	282295520473522180	long	7
+in_reply_to_status_id	26714	282456582787309570	long	7
+in_reply_to_status_id_str	26715	None	NoneType	91644
+in_reply_to_status_id_str	26715	282409052166840320	unicode	30
+in_reply_to_status_id_str	26715	282425606291996672	unicode	9
+in_reply_to_status_id_str	26715	282199040916070400	unicode	7
+in_reply_to_status_id_str	26715	282456582787309568	unicode	7
+in_reply_to_user_id	26647	None	NoneType	87308
+in_reply_to_user_id	26647	105119490	int	62
+in_reply_to_user_id	26647	27260086	int	32
+in_reply_to_user_id	26647	17929027	int	22
+in_reply_to_user_id	26647	19743731	int	17
+in_reply_to_user_id_str	26647	None	NoneType	87308
+in_reply_to_user_id_str	26647	105119490	unicode	62
+in_reply_to_user_id_str	26647	27260086	unicode	32
+in_reply_to_user_id_str	26647	17929027	unicode	22
+in_reply_to_user_id_str	26647	19743731	unicode	17
+lang	33	en	unicode	99978
+lang	33	es	unicode	4076
+lang	33	und	unicode	2152
+lang	33	id	unicode	1728
+lang	33	pt	unicode	1475
+limit	1	dict	dict	12
+limit.track	12	208	int	1
+limit.track	12	202	int	1
+limit.track	12	131	int	1
+limit.track	12	633	int	1
+limit.track	12	635	int	1
+place	2	dict	dict	118277
+place	2	None	NoneType	560
+place.attributes	1	dict	dict	118277
+place.attributes.locality	70	Toronto	unicode	10
+place.attributes.locality	70	Manhattan	unicode	7
+place.attributes.locality	70	Vancouver	unicode	6
+place.attributes.locality	70	Houston	unicode	4
+place.attributes.locality	70	Washington	unicode	4
+place.attributes.region	24	ON	unicode	20
+place.attributes.region	24	California	unicode	15
+place.attributes.region	24	New York	unicode	11
+place.attributes.region	24	Texas	unicode	10
+place.attributes.region	24	BC	unicode	7
+place.attributes.street_address	1448	460 Hollybrook Ridge Ln	unicode	39
+place.attributes.street_address	1448	2123 NE Kane Dr	unicode	14
+place.attributes.street_address	1448	1428 Huron Way	unicode	5
+place.attributes.street_address	1448	1540,Pelham Pkwy S	unicode	5
+place.attributes.street_address	1448	4 Penn Plaza	unicode	4
+place.bounding_box	2	dict	dict	118272
+place.bounding_box	2	None	NoneType	5
+place.bounding_box.coordinates	1	list	list	118272
+place.bounding_box.type	1	Polygon	unicode	118272
+place.country	7	United States	unicode	111632
+place.country	7	Canada	unicode	4129
+place.country	7	México	unicode	1956
+place.country	7	Mexico	unicode	554
+place.country	7	Messico	unicode	3
+place.country_code	3	US	unicode	111632
+place.country_code	3	CA	unicode	4129
+place.country_code	3	MX	unicode	2516
+place.full_name	13289	Los Angeles, CA	unicode	1941
+place.full_name	13289	Georgia, US	unicode	1786
+place.full_name	13289	Chicago, IL	unicode	1405
+place.full_name	13289	Texas, US	unicode	1225
+place.full_name	13289	South Carolina, US	unicode	1176
+place.id	13290	3b77caf94bfc81fe	unicode	1941
+place.id	13290	7142eb97ae21e839	unicode	1786
+place.id	13290	1d9a5370a355ab0c	unicode	1405
+place.id	13290	e0060cda70f5f341	unicode	1225
+place.id	13290	6057f1e35bcc6c20	unicode	1176
+place.name	10028	Los Angeles	unicode	1941
+place.name	10028	Georgia	unicode	1787
+place.name	10028	New York	unicode	1505
+place.name	10028	Chicago	unicode	1415
+place.name	10028	Texas	unicode	1228
+place.place_type	5	city	unicode	99996
+place.place_type	5	admin	unicode	16043
+place.place_type	5	poi	unicode	1729
+place.place_type	5	neighborhood	unicode	336
+place.place_type	5	country	unicode	173
+place.url	13290	http://api.twitter.com/1/geo/id/3b77caf94bfc81fe.json	unicode	1941
+place.url	13290	http://api.twitter.com/1/geo/id/7142eb97ae21e839.json	unicode	1786
+place.url	13290	http://api.twitter.com/1/geo/id/1d9a5370a355ab0c.json	unicode	1405
+place.url	13290	http://api.twitter.com/1/geo/id/e0060cda70f5f341.json	unicode	1225
+place.url	13290	http://api.twitter.com/1/geo/id/6057f1e35bcc6c20.json	unicode	1176
+possibly_sensitive	2	false	unicode	9289
+possibly_sensitive	2	true	unicode	137
+retweet_count	1	0	int	118837
+retweeted	1	false	unicode	118837
+source	217	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>	unicode	54411
+source	217	<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>	unicode	33498
+source	217	web	unicode	12178
+source	217	<a href="http://foursquare.com" rel="nofollow">foursquare</a>	unicode	4038
+source	217	<a href="http://tapbots.com/tweetbot" rel="nofollow">Tweetbot for iOS</a>	unicode	2539
+text	117946	Lol	unicode	28
+text	117946	Good morning	unicode	22
+text	117946	:(	unicode	17
+text	117946	:)	unicode	15
+text	117946	Goodmorning	unicode	14
+truncated	1	false	unicode	118837
+user	1	dict	dict	118837
+user.contributors_enabled	2	false	unicode	118825
+user.contributors_enabled	2	true	unicode	12
+user.created_at	66946	Tue Oct 30 18:42:14 +0000 2012	unicode	185
+user.created_at	66946	Tue Apr 19 13:25:23 +0000 2011	unicode	122
+user.created_at	66946	Sat Dec 03 03:46:42 +0000 2011	unicode	87
+user.created_at	66946	Sat Apr 03 01:02:02 +0000 2010	unicode	74
+user.created_at	66946	Tue Feb 22 08:17:26 +0000 2011	unicode	58
+user.default_profile	2	false	unicode	89032
+user.default_profile	2	true	unicode	29805
+user.default_profile_image	2	false	unicode	118061
+user.default_profile_image	2	true	unicode	776
+user.description	55923		unicode	16449
+user.description	55923	TwitZip: Building a Twitter Zip Code Infrastructure for Consistent Public Use	unicode	382
+user.description	55923	Traffic, accidents, and road conditions from Caltrans highway message signs in San Francisco / San Jose Bay Area. Updates every 10 minutes from public sources.	unicode	185
+user.description	55923	Ty Means The World To Me ❤ , ( Mention To Get Followed )	unicode	87
+user.description	55923	✌	unicode	74
+user.favourites_count	5388	0	int	5443
+user.favourites_count	5388	1	int	2394
+user.favourites_count	5388	2	int	1842
+user.favourites_count	5388	3	int	1768
+user.favourites_count	5388	4	int	1436
+user.follow_request_sent	1	None	NoneType	118837
+user.followers_count	3688	105	int	355
+user.followers_count	3688	44	int	333
+user.followers_count	3688	121	int	327
+user.followers_count	3688	123	int	320
+user.followers_count	3688	1	int	319
+user.following	1	None	NoneType	118837
+user.friends_count	2703	0	int	573
+user.friends_count	2703	1	int	486
+user.friends_count	2703	98	int	406
+user.friends_count	2703	99	int	374
+user.friends_count	2703	174	int	370
+user.geo_enabled	2	true	unicode	118836
+user.geo_enabled	2	false	unicode	1
+user.id	66982	915249049	int	185
+user.id	66982	284534859	int	122
+user.id	66982	427107649	int	87
+user.id	66982	129042990	int	74
+user.id	66982	255911016	int	58
+user.id_str	66982	915249049	unicode	185
+user.id_str	66982	284534859	unicode	122
+user.id_str	66982	427107649	unicode	87
+user.id_str	66982	129042990	unicode	74
+user.id_str	66982	255911016	unicode	58
+user.is_translator	2	false	unicode	118806
+user.is_translator	2	true	unicode	31
+user.lang	26	en	unicode	114108
+user.lang	26	es	unicode	3462
+user.lang	26	fr	unicode	532
+user.lang	26	pt	unicode	281
+user.lang	26	ja	unicode	79
+user.listed_count	398	0	int	73757
+user.listed_count	398	1	int	18518
+user.listed_count	398	2	int	7318
+user.listed_count	398	3	int	3885
+user.listed_count	398	4	int	2262
+user.location	30751		unicode	36414
+user.location	30751	New York	unicode	379
+user.location	30751	Los Angeles	unicode	312
+user.location	30751	Chicago	unicode	309
+user.location	30751	California	unicode	232
+user.name	65069	Bay Area Road Alerts	unicode	185
+user.name	65069	Scream Radius	unicode	122
+user.name	65069	Yours Truly .	unicode	87
+user.name	65069	VW WX Net	unicode	74
+user.name	65069	.	unicode	45
+user.notifications	1	None	NoneType	118837
+user.profile_background_color	9600	C0DEED	unicode	43490
+user.profile_background_color	9600	131516	unicode	9911
+user.profile_background_color	9600	1A1B1F	unicode	5932
+user.profile_background_color	9600	000000	unicode	5050
+user.profile_background_color	9600	642D8B	unicode	4602
+user.profile_background_image_url	36365	http://a0.twimg.com/images/themes/theme1/bg.png	unicode	31305
+user.profile_background_image_url	36365	http://a0.twimg.com/images/themes/theme14/bg.gif	unicode	4994
+user.profile_background_image_url	36365	http://a0.twimg.com/images/themes/theme9/bg.gif	unicode	3172
+user.profile_background_image_url	36365	http://a0.twimg.com/images/themes/theme10/bg.gif	unicode	2339
+user.profile_background_image_url	36365	http://a0.twimg.com/images/themes/theme18/bg.gif	unicode	1701
+user.profile_background_image_url_https	36365	https://si0.twimg.com/images/themes/theme1/bg.png	unicode	31305
+user.profile_background_image_url_https	36365	https://si0.twimg.com/images/themes/theme14/bg.gif	unicode	4994
+user.profile_background_image_url_https	36365	https://si0.twimg.com/images/themes/theme9/bg.gif	unicode	3172
+user.profile_background_image_url_https	36365	https://si0.twimg.com/images/themes/theme10/bg.gif	unicode	2339
+user.profile_background_image_url_https	36365	https://si0.twimg.com/images/themes/theme18/bg.gif	unicode	1701
+user.profile_background_tile	2	false	unicode	63428
+user.profile_background_tile	2	true	unicode	55409
+user.profile_banner_url	45503	https://si0.twimg.com/profile_banners/427107649/1356054958	unicode	87
+user.profile_banner_url	45503	https://si0.twimg.com/profile_banners/255911016/1348079448	unicode	58
+user.profile_banner_url	45503	https://si0.twimg.com/profile_banners/170984523/1349681001	unicode	45
+user.profile_banner_url	45503	https://si0.twimg.com/profile_banners/137613754/1353990405	unicode	44
+user.profile_banner_url	45503	https://si0.twimg.com/profile_banners/454554291/1354171870	unicode	44
+user.profile_image_url	67543	http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png	unicode	289
+user.profile_image_url	67543	http://a0.twimg.com/profile_images/1340624492/screamradius_logo_normal.gif	unicode	122
+user.profile_image_url	67543	http://a0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png	unicode	96
+user.profile_image_url	67543	http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png	unicode	93
+user.profile_image_url	67543	http://a0.twimg.com/profile_images/3000498772/c93fbc540ebdfc6b83ec8bb4a5b88e15_normal.jpeg	unicode	87
+user.profile_image_url_https	67543	https://si0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png	unicode	289
+user.profile_image_url_https	67543	https://si0.twimg.com/profile_images/1340624492/screamradius_logo_normal.gif	unicode	122
+user.profile_image_url_https	67543	https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png	unicode	96
+user.profile_image_url_https	67543	https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png	unicode	93
+user.profile_image_url_https	67543	https://si0.twimg.com/profile_images/3000498772/c93fbc540ebdfc6b83ec8bb4a5b88e15_normal.jpeg	unicode	87
+user.profile_link_color	13821	0084B4	unicode	47670
+user.profile_link_color	13821	009999	unicode	8701
+user.profile_link_color	13821	FF0000	unicode	5413
+user.profile_link_color	13821	2FC2EF	unicode	5290
+user.profile_link_color	13821	038543	unicode	2586
+user.profile_sidebar_border_color	5423	C0DEED	unicode	41423
+user.profile_sidebar_border_color	5423	FFFFFF	unicode	23207
+user.profile_sidebar_border_color	5423	000000	unicode	10669
+user.profile_sidebar_border_color	5423	EEEEEE	unicode	9438
+user.profile_sidebar_border_color	5423	181A1E	unicode	4611
+user.profile_sidebar_fill_color	8118	DDEEF6	unicode	50759
+user.profile_sidebar_fill_color	8118	EFEFEF	unicode	9488
+user.profile_sidebar_fill_color	8118	252429	unicode	5999
+user.profile_sidebar_fill_color	8118	7AC3EE	unicode	4576
+user.profile_sidebar_fill_color	8118	FFFFFF	unicode	3685
+user.profile_text_color	8457	333333	unicode	72638
+user.profile_text_color	8457	666666	unicode	5904
+user.profile_text_color	8457	000000	unicode	4649
+user.profile_text_color	8457	3D1957	unicode	4506
+user.profile_text_color	8457	362720	unicode	2263
+user.profile_use_background_image	2	true	unicode	114508
+user.profile_use_background_image	2	false	unicode	4329
+user.protected	1	false	unicode	118837
+user.screen_name	67012	SFBayRoadAlerts	unicode	185
+user.screen_name	67012	screamradius	unicode	122
+user.screen_name	67012	PrettyLialThing	unicode	87
+user.screen_name	67012	vwwxnet	unicode	74
+user.screen_name	67012	Mr_King13	unicode	58
+user.statuses_count	30128	2	int	68
+user.statuses_count	30128	3	int	62
+user.statuses_count	30128	13	int	60
+user.statuses_count	30128	1	int	59
+user.statuses_count	30128	24	int	59
+user.time_zone	112	None	NoneType	29791
+user.time_zone	112	Central Time (US & Canada)	unicode	21696
+user.time_zone	112	Eastern Time (US & Canada)	unicode	20351
+user.time_zone	112	Pacific Time (US & Canada)	unicode	12744
+user.time_zone	112	Quito	unicode	9864
+user.url	16308		unicode	89474
+user.url	16308	http://twitzip.com	unicode	382
+user.url	16308	http://facebook.com	unicode	139
+user.url	16308	http://screamradius.com	unicode	122
+user.url	16308	http://wxdata.us/	unicode	103
+user.utc_offset	33	-18000	int	30632
+user.utc_offset	33	None	NoneType	29791
+user.utc_offset	33	-21600	int	22439
+user.utc_offset	33	-28800	int	12824
+user.utc_offset	33	-25200	int	8837
+user.verified	2	false	unicode	118784
+user.verified	2	true	unicode	53
