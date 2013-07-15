@@ -29,6 +29,15 @@
 
 REGISTER '../udfs/python/mongo_util.py' USING streaming_python AS mongo_util;
 
+/*
+ To calculate input splits Hadoop makes a call that requires admin privileges in MongoDB 2.4+.
+
+ If you are connecting as a user with admin privileges you should remove this line for much better
+ performance.
+*/
+SET mongo.input.split.create_input_splits false
+
+
 data = LOAD 'mongodb://readonly:readonly@ds035147.mongolab.com:35147/twitter.tweets' 
        USING com.mongodb.hadoop.pig.MongoLoader();
 
