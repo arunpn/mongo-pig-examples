@@ -12,7 +12,9 @@ Here we've included some example scripts that explore using MongoDB with Hadoop.
 
         git clone git@github.com:mortardata/mongo-pig-examples.git
         cd mongo-pig-examples
-        mortar register mongo-pig-examples
+        mortar register <your-handle>-mongo-pig-examples
+
+Mortar project names share one global namespace so you'll need to pick a unique name. For this example you can prepend your Mortar handle to "mongo-pig-examples" in order to generate a unique name.
 
 Once you've setup the project, use the `mortar illustrate` command to show data flowing through a given script.  Use `mortar run` to run the script on a Hadoop cluster.
 
